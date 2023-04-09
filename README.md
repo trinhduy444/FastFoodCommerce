@@ -50,3 +50,5 @@ và thực tiễn đang được áp dụng**
 
 **4. Spring security**
 - Ứng dụng này đã được cung cấp bảo mật bằng Spring Security. Các chức năng bảo mật bao gồm xác thực người dùng và kiểm soát quyền truy cập. Bạn có thể cấu hình các tùy chọn bảo mật trong tệp application.properties.
+
+Cảm ơn các bạn thầy đọc bài của em, Chúc thầy có một ngày tốt lành.
